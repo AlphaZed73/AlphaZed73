@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlphaZed73
+- 👀 I’m interested in game development. 
+- 🌱 I’m currently learning discord bot development.
